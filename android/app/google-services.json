@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466615811320",
+    "project_id": "pure-a01cd",
+    "storage_bucket": "pure-a01cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466615811320:android:c6c6285074076938378f0d",
+        "android_client_info": {
+          "package_name": "com.puret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466615811320-bal9m6i0nsvmp67behof9i4r2oghf8ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puret",
+            "certificate_hash": "708fb41d6ccc45e8ff4aaac3fd961bb30f390b0f"
+          }
+        },
+        {
+          "client_id": "466615811320-87nu4jm1jl4di0mht1ifuh7nvhms66iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG70p_D24JAwMVUT17XyJLXLIve0E67jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466615811320-87nu4jm1jl4di0mht1ifuh7nvhms66iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
